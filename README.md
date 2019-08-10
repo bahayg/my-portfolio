@@ -6,21 +6,21 @@
 
 ## Description
 
-_This webpage provides detailed information about myself. Brief descriptions of projects and their GitHub page links are also included. _
+This webpage provides detailed information about myself. Brief descriptions of projects and their GitHub page links are also included.
 
 ## Setup/Installation Requirements
 
-* _Clone or download this repository_
+Clone or download this repository
 
 
 ## Support and contact details
 
-_Do not hesitate to contact me at bahayg@gmail.com if you have any questions_
+Do not hesitate to contact me at bahayg@gmail.com if you have any questions
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Bootstrap
+HTML
+CSS
+Bootstrap
 
 Copyright (c) 2016 **_Bahay Gulle Bilgi_**
