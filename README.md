@@ -1,8 +1,8 @@
-My Portfolio
+# _My Portfolio_
 
-Week 1 Independent Project for Epicodus, 08/09/2019
+### _Week 1 Independent Project for Epicodus, 08/09/2019_
 
-**Bahay Gulle Bilgi**
+### By _**Bahay Gulle Bilgi**_
 
 ## Description
 
