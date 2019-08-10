@@ -1,6 +1,21 @@
+body {
+  font-family: sans-serif;
+}
 .projects {
   font-style: oblique;
 }
+.important{
+  border: 3px solid gray;
+  padding: 6px;
+  margin: 10px;
+  background-color: #D3D3D3;
+}
 .underline {
   text-decoration: underline;
+}
+img {
+  float: right;
+}
+.links a {
+  font-weight: bold;
 }
