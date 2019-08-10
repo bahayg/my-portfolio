@@ -10,12 +10,12 @@ This webpage provides detailed information about myself. Brief descriptions of p
 
 ## Setup/Installation Requirements
 
-Clone or download this repository
+Clone or download this repository.
 
 
 ## Support and contact details
 
-Do not hesitate to contact me at bahayg@gmail.com if you have any questions
+Do not hesitate to contact me at bahayg@gmail.com if you have any questions.
 
 ## Technologies Used
 
